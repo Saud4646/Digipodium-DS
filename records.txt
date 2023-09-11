@@ -1,0 +1,12 @@
+alex => 87
+arjun => 59
+savan => 45
+jraun => 23
+amuman => 33
+
+alex => 87
+arjun => 59
+savan => 45
+jraun => 23
+amuman => 33
+
